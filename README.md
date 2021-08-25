@@ -6,4 +6,4 @@ Basic First project With HTML5 & CSS3
 
 Credit: Abu Huraira
 
-# Project Link: https://huraira429.github.io/Calculator_HTML/
+ <strong>*_Project Link:_*</strong>  https://huraira429.github.io/Calculator_HTML/
