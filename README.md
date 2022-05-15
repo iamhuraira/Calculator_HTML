@@ -21,8 +21,8 @@ This is simple calculator that's create with only HTML and CSS only And also use
 
 ### Links
 
-- Solution URL: [Solution Link](https://github.com/Huraira429/Calculator_HTML)
-- Live Site URL: [Live Site ](https://huraira429.github.io/Calculator_HTML/)
+- Solution URL: [Solution Link](https://github.com/iamhuraira/Calculator_HTML)
+- Live Site URL: [Live Site ](https://iamhuraira.github.io/Calculator_HTML/)
 
 ## My process
 
@@ -43,6 +43,6 @@ This project helped me better understand how to use neumorphism effect in CSS an
 ## Author
 
 - Frontend Mentor - [@Huraira429](https://www.frontendmentor.io/profile/Huraira429)
-- Twitter - [@i_am_huraira_](https://twitter.com/i_am_huraira_)
+
 
 
