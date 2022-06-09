@@ -28,8 +28,9 @@ This is simple calculator that's create with only HTML and CSS only And also use
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 
 - CSS3
+- 
 
 ### What I learned
 
